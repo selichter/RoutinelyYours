@@ -1,0 +1,43 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+Packages/
+.build/
+
+# CocoaPods (if applicable)
+Pods/
+Podfile.lock
+
+# Carthage (if applicable)
+Carthage/Build/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Xcode Scheme files
+xcshareddata/
+xcuserdata/
+
+# macOS
+*.DS_Store
+*.xcworkspace
+*.xcodeproj
+
+# Logs
+*.log
+
+# SwiftPM
+.swiftpm/xcode/
